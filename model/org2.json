@@ -1,0 +1,45 @@
+[
+  {
+    "model": {
+      "image": {
+        "width": 1536,
+        "height": 1024
+      },
+      "predictions": [
+        {
+          "width": 38,
+          "height": 67,
+          "x": 630,
+          "y": 382.5,
+          "confidence": 0.8100025057792664,
+          "class_id": 60,
+          "class": "Gate Valve",
+          "detection_id": "aad104d6-0b2f-4fc0-b9f4-664d5dcbac41",
+          "parent_id": "image"
+        },
+        {
+          "width": 47,
+          "height": 64,
+          "x": 401.5,
+          "y": 462,
+          "confidence": 0.8039976358413696,
+          "class_id": 60,
+          "class": "Gate Valve",
+          "detection_id": "ff9fe479-f3cb-423b-b898-6982875c1dd9",
+          "parent_id": "image"
+        },
+        {
+          "width": 69,
+          "height": 68,
+          "x": 837.5,
+          "y": 132,
+          "confidence": 0.4068412780761719,
+          "class_id": 66,
+          "class": "Hand Operated Gate Valve",
+          "detection_id": "8d4fddaa-78c3-417a-8b9f-778ae09e861a",
+          "parent_id": "image"
+        }
+      ]
+    }
+  }
+]

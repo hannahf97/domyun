@@ -1,0 +1,1325 @@
+{
+  "version": "v1",
+  "elements": [
+    {
+      "id": "A",
+      "label": "A",
+      "position": {
+        "x": 111.0,
+        "y": 50.5,
+        "width": 24.0,
+        "height": 27.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "position": {
+        "x": 280.0,
+        "y": 51.0,
+        "width": 22.0,
+        "height": 26.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "C",
+      "label": "C",
+      "position": {
+        "x": 454.5,
+        "y": 51.0,
+        "width": 23.0,
+        "height": 26.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "D",
+      "label": "D",
+      "position": {
+        "x": 626.0,
+        "y": 51.0,
+        "width": 24.0,
+        "height": 26.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "E",
+      "label": "E",
+      "position": {
+        "x": 793.0,
+        "y": 51.0,
+        "width": 22.0,
+        "height": 26.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "F",
+      "label": "F",
+      "position": {
+        "x": 952.5,
+        "y": 50.5,
+        "width": 23.0,
+        "height": 25.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "G",
+      "label": "G",
+      "position": {
+        "x": 1109.5,
+        "y": 51.0,
+        "width": 21.0,
+        "height": 22.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "H",
+      "label": "H",
+      "position": {
+        "x": 1263.5,
+        "y": 51.0,
+        "width": 21.0,
+        "height": 22.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "1",
+      "label": "1",
+      "position": {
+        "x": 47.5,
+        "y": 119.5,
+        "width": 9.0,
+        "height": 17.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "HV-01",
+      "label": "HV-01",
+      "position": {
+        "x": 606.5,
+        "y": 119.5,
+        "width": 77.0,
+        "height": 25.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "TT",
+      "label": "TT",
+      "position": {
+        "x": 838.5,
+        "y": 119.0,
+        "width": 37.0,
+        "height": 22.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "COOL",
+      "label": "COOL",
+      "position": {
+        "x": 1016.0,
+        "y": 114.5,
+        "width": 70.0,
+        "height": 27.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "WATER",
+      "label": "WATER",
+      "position": {
+        "x": 1090.0,
+        "y": 114.5,
+        "width": 82.0,
+        "height": 27.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "1",
+      "label": "1",
+      "position": {
+        "x": 1487.5,
+        "y": 117.0,
+        "width": 9.0,
+        "height": 18.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "HTA",
+      "label": "HTA",
+      "position": {
+        "x": 506.0,
+        "y": 141.5,
+        "width": 50.0,
+        "height": 25.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "TT",
+      "label": "TT",
+      "position": {
+        "x": 928.0,
+        "y": 141.0,
+        "width": 34.0,
+        "height": 22.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "FT-",
+      "label": "FT-",
+      "position": {
+        "x": 465.5,
+        "y": 216.0,
+        "width": 65.0,
+        "height": 24.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "V-402",
+      "label": "V-402",
+      "position": {
+        "x": 790.0,
+        "y": 230.0,
+        "width": 82.0,
+        "height": 26.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "position": {
+        "x": 49.0,
+        "y": 247.5,
+        "width": 18.0,
+        "height": 23.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "STORAGE",
+      "label": "STORAGE",
+      "position": {
+        "x": 264.0,
+        "y": 249.0,
+        "width": 112.0,
+        "height": 26.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "position": {
+        "x": 1487.0,
+        "y": 246.5,
+        "width": 18.0,
+        "height": 23.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "TANK",
+      "label": "TANK",
+      "position": {
+        "x": 264.0,
+        "y": 277.0,
+        "width": 62.0,
+        "height": 22.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "PT",
+      "label": "PT",
+      "position": {
+        "x": 505.5,
+        "y": 270.0,
+        "width": 31.0,
+        "height": 22.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "HHAHH",
+      "label": "HHAHH",
+      "position": {
+        "x": 1007.0,
+        "y": 271.5,
+        "width": 122.0,
+        "height": 31.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "STORAGE",
+      "label": "STORAGE",
+      "position": {
+        "x": 1352.5,
+        "y": 315.0,
+        "width": 111.0,
+        "height": 26.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "TIC-01",
+      "label": "TIC-01",
+      "position": {
+        "x": 532.5,
+        "y": 326.0,
+        "width": 67.0,
+        "height": 22.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "TANK",
+      "label": "TANK",
+      "position": {
+        "x": 1352.0,
+        "y": 343.0,
+        "width": 66.0,
+        "height": 24.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "position": {
+        "x": 49.0,
+        "y": 384.5,
+        "width": 18.0,
+        "height": 23.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "E-401",
+      "label": "E-401",
+      "position": {
+        "x": 680.0,
+        "y": 382.5,
+        "width": 74.0,
+        "height": 27.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "3",
+      "label": "3",
+      "position": {
+        "x": 1487.0,
+        "y": 383.5,
+        "width": 18.0,
+        "height": 23.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "E-401",
+      "label": "E-401",
+      "position": {
+        "x": 980.5,
+        "y": 443.5,
+        "width": 69.0,
+        "height": 23.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "FV-01",
+      "label": "FV-01",
+      "position": {
+        "x": 283.0,
+        "y": 452.5,
+        "width": 74.0,
+        "height": 27.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "position": {
+        "x": 49.5,
+        "y": 509.5,
+        "width": 19.0,
+        "height": 23.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "4",
+      "label": "4",
+      "position": {
+        "x": 1487.0,
+        "y": 511.0,
+        "width": 18.0,
+        "height": 24.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "T-401",
+      "label": "T-401",
+      "position": {
+        "x": 632.0,
+        "y": 558.5,
+        "width": 52.0,
+        "height": 19.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "P-401",
+      "label": "P-401",
+      "position": {
+        "x": 237.0,
+        "y": 585.5,
+        "width": 74.0,
+        "height": 25.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "I",
+      "label": "I",
+      "position": {
+        "x": 337.0,
+        "y": 584.5,
+        "width": 40.0,
+        "height": 33.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "STORAGE",
+      "label": "STORAGE",
+      "position": {
+        "x": 1247.5,
+        "y": 584.5,
+        "width": 111.0,
+        "height": 25.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "TANK",
+      "label": "TANK",
+      "position": {
+        "x": 1247.0,
+        "y": 612.0,
+        "width": 62.0,
+        "height": 22.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "position": {
+        "x": 50.0,
+        "y": 639.0,
+        "width": 18.0,
+        "height": 24.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "5",
+      "label": "5",
+      "position": {
+        "x": 1487.0,
+        "y": 638.5,
+        "width": 18.0,
+        "height": 23.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "LEGEND",
+      "label": "LEGEND",
+      "position": {
+        "x": 169.5,
+        "y": 666.5,
+        "width": 97.0,
+        "height": 25.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "V",
+      "label": "V",
+      "position": {
+        "x": 132.5,
+        "y": 701.0,
+        "width": 23.0,
+        "height": 28.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "=",
+      "label": "=",
+      "position": {
+        "x": 170.5,
+        "y": 703.5,
+        "width": 21.0,
+        "height": 17.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "Valve",
+      "label": "Valve",
+      "position": {
+        "x": 221.0,
+        "y": 702.5,
+        "width": 64.0,
+        "height": 25.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "CLIMP",
+      "label": "CLIMP",
+      "position": {
+        "x": 585.0,
+        "y": 700.0,
+        "width": 72.0,
+        "height": 26.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "P-401",
+      "label": "P-401",
+      "position": {
+        "x": 580.0,
+        "y": 730.5,
+        "width": 72.0,
+        "height": 23.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "P",
+      "label": "P",
+      "position": {
+        "x": 131.5,
+        "y": 740.5,
+        "width": 25.0,
+        "height": 27.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "=",
+      "label": "=",
+      "position": {
+        "x": 169.5,
+        "y": 741.5,
+        "width": 21.0,
+        "height": 15.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "Pump",
+      "label": "Pump",
+      "position": {
+        "x": 226.0,
+        "y": 744.5,
+        "width": 72.0,
+        "height": 29.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "HEAT",
+      "label": "HEAT",
+      "position": {
+        "x": 953.0,
+        "y": 745.5,
+        "width": 72.0,
+        "height": 29.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "EXCHANGER",
+      "label": "EXCHANGER",
+      "position": {
+        "x": 1073.0,
+        "y": 745.5,
+        "width": 166.0,
+        "height": 29.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "PIPING-TANK",
+      "label": "PIPING-TANK",
+      "position": {
+        "x": 1242.5,
+        "y": 746.0,
+        "width": 167.0,
+        "height": 28.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "SYSTEM",
+      "label": "SYSTEM",
+      "position": {
+        "x": 1379.0,
+        "y": 745.5,
+        "width": 106.0,
+        "height": 29.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "position": {
+        "x": 49.5,
+        "y": 776.0,
+        "width": 17.0,
+        "height": 22.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "E",
+      "label": "E",
+      "position": {
+        "x": 132.5,
+        "y": 779.5,
+        "width": 23.0,
+        "height": 29.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "=",
+      "label": "=",
+      "position": {
+        "x": 170.0,
+        "y": 780.5,
+        "width": 22.0,
+        "height": 17.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "Heat",
+      "label": "Heat",
+      "position": {
+        "x": 221.0,
+        "y": 781.0,
+        "width": 58.0,
+        "height": 24.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "Exchanger",
+      "label": "Exchanger",
+      "position": {
+        "x": 316.5,
+        "y": 782.5,
+        "width": 125.0,
+        "height": 31.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "position": {
+        "x": 1487.0,
+        "y": 776.0,
+        "width": 18.0,
+        "height": 22.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "T",
+      "label": "T",
+      "position": {
+        "x": 474.0,
+        "y": 805.0,
+        "width": 42.0,
+        "height": 42.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "DRN:",
+      "label": "DRN:",
+      "position": {
+        "x": 934.5,
+        "y": 802.0,
+        "width": 61.0,
+        "height": 22.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "KIM",
+      "label": "KIM",
+      "position": {
+        "x": 1010.0,
+        "y": 802.0,
+        "width": 48.0,
+        "height": 22.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "CREADNCS, INC,",
+      "label": "CREADNCS, INC,",
+      "position": {
+        "x": 1360.0,
+        "y": 802.5,
+        "width": 142.0,
+        "height": 23.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "=",
+      "label": "=",
+      "position": {
+        "x": 520.0,
+        "y": 810.0,
+        "width": 22.0,
+        "height": 18.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "T-402",
+      "label": "T-402",
+      "position": {
+        "x": 574.5,
+        "y": 810.5,
+        "width": 75.0,
+        "height": 29.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "T",
+      "label": "T",
+      "position": {
+        "x": 132.5,
+        "y": 821.5,
+        "width": 23.0,
+        "height": 27.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "=",
+      "label": "=",
+      "position": {
+        "x": 170.0,
+        "y": 822.0,
+        "width": 22.0,
+        "height": 18.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "Storage",
+      "label": "Storage",
+      "position": {
+        "x": 237.0,
+        "y": 824.5,
+        "width": 94.0,
+        "height": 29.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "Tank",
+      "label": "Tank",
+      "position": {
+        "x": 316.0,
+        "y": 821.5,
+        "width": 56.0,
+        "height": 21.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "2020",
+      "label": "2020",
+      "position": {
+        "x": 1307.5,
+        "y": 826.0,
+        "width": 43.0,
+        "height": 22.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "in 8.2318",
+      "label": "in 8.2318",
+      "position": {
+        "x": 1357.0,
+        "y": 825.0,
+        "width": 68.0,
+        "height": 20.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "Drive",
+      "label": "Drive",
+      "position": {
+        "x": 1405.5,
+        "y": 825.0,
+        "width": 43.0,
+        "height": 22.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "DRTE:",
+      "label": "DRTE:",
+      "position": {
+        "x": 939.5,
+        "y": 847.0,
+        "width": 71.0,
+        "height": 24.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "2025-06-01",
+      "label": "2025-06-01",
+      "position": {
+        "x": 1060.5,
+        "y": 848.0,
+        "width": 147.0,
+        "height": 26.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "Sorianners:",
+      "label": "Sorianners:",
+      "position": {
+        "x": 1328.0,
+        "y": 847.0,
+        "width": 84.0,
+        "height": 20.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "ST. 22x6",
+      "label": "ST. 22x6",
+      "position": {
+        "x": 1397.0,
+        "y": 847.0,
+        "width": 64.0,
+        "height": 20.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "TAST TAG",
+      "label": "TAST TAG",
+      "position": {
+        "x": 180.0,
+        "y": 861.5,
+        "width": 118.0,
+        "height": 27.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "USED",
+      "label": "USED",
+      "position": {
+        "x": 272.5,
+        "y": 862.0,
+        "width": 63.0,
+        "height": 26.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "=",
+      "label": "=",
+      "position": {
+        "x": 520.0,
+        "y": 857.0,
+        "width": 22.0,
+        "height": 16.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "TYPICAL",
+      "label": "TYPICAL",
+      "position": {
+        "x": 590.0,
+        "y": 858.0,
+        "width": 104.0,
+        "height": 26.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "AT",
+      "label": "AT",
+      "position": {
+        "x": 661.0,
+        "y": 858.5,
+        "width": 36.0,
+        "height": 25.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "ALL",
+      "label": "ALL",
+      "position": {
+        "x": 702.5,
+        "y": 858.5,
+        "width": 51.0,
+        "height": 25.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "6",
+      "label": "6",
+      "position": {
+        "x": 741.0,
+        "y": 858.5,
+        "width": 22.0,
+        "height": 27.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "LOC-",
+      "label": "LOC-",
+      "position": {
+        "x": 784.5,
+        "y": 858.5,
+        "width": 63.0,
+        "height": 27.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "7",
+      "label": "7",
+      "position": {
+        "x": 49.5,
+        "y": 912.0,
+        "width": 17.0,
+        "height": 22.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "X",
+      "label": "X",
+      "position": {
+        "x": 473.0,
+        "y": 901.5,
+        "width": 24.0,
+        "height": 29.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "TIONSS",
+      "label": "TIONSS",
+      "position": {
+        "x": 583.5,
+        "y": 893.5,
+        "width": 91.0,
+        "height": 27.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "MARKED",
+      "label": "MARKED",
+      "position": {
+        "x": 684.0,
+        "y": 893.5,
+        "width": 104.0,
+        "height": 27.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "*",
+      "label": "*",
+      "position": {
+        "x": 754.0,
+        "y": 893.0,
+        "width": 26.0,
+        "height": 28.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "DATE:",
+      "label": "DATE:",
+      "position": {
+        "x": 938.5,
+        "y": 891.0,
+        "width": 67.0,
+        "height": 22.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "1",
+      "label": "1",
+      "position": {
+        "x": 996.5,
+        "y": 892.0,
+        "width": 15.0,
+        "height": 24.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "CE-45-P045",
+      "label": "CE-45-P045",
+      "position": {
+        "x": 1356.5,
+        "y": 910.5,
+        "width": 145.0,
+        "height": 25.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "H",
+      "label": "H",
+      "position": {
+        "x": 1486.5,
+        "y": 911.5,
+        "width": 25.0,
+        "height": 29.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "LAST",
+      "label": "LAST",
+      "position": {
+        "x": 934.5,
+        "y": 934.5,
+        "width": 61.0,
+        "height": 23.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "TALK!!",
+      "label": "TALK!!",
+      "position": {
+        "x": 1003.5,
+        "y": 934.5,
+        "width": 73.0,
+        "height": 23.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "REV,B",
+      "label": "REV,B",
+      "position": {
+        "x": 1190.0,
+        "y": 936.0,
+        "width": 74.0,
+        "height": 26.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "A",
+      "label": "A",
+      "position": {
+        "x": 112.0,
+        "y": 974.0,
+        "width": 22.0,
+        "height": 26.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "B",
+      "label": "B",
+      "position": {
+        "x": 279.0,
+        "y": 973.5,
+        "width": 20.0,
+        "height": 25.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "C",
+      "label": "C",
+      "position": {
+        "x": 454.5,
+        "y": 974.0,
+        "width": 21.0,
+        "height": 22.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "D",
+      "label": "D",
+      "position": {
+        "x": 626.0,
+        "y": 974.0,
+        "width": 24.0,
+        "height": 26.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "E",
+      "label": "E",
+      "position": {
+        "x": 793.0,
+        "y": 974.0,
+        "width": 22.0,
+        "height": 26.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "F",
+      "label": "F",
+      "position": {
+        "x": 952.5,
+        "y": 974.0,
+        "width": 17.0,
+        "height": 22.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "G",
+      "label": "G",
+      "position": {
+        "x": 1109.0,
+        "y": 974.0,
+        "width": 20.0,
+        "height": 22.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "H",
+      "label": "H",
+      "position": {
+        "x": 1264.0,
+        "y": 973.5,
+        "width": 22.0,
+        "height": 25.0
+      },
+      "type": "label",
+      "source": "ocr"
+    },
+    {
+      "id": "Gate Valve@927x444",
+      "label": "Gate Valve",
+      "position": {
+        "x": 927.5,
+        "y": 444.5,
+        "width": 37,
+        "height": 67
+      },
+      "type": "gate_valve",
+      "source": "model"
+    },
+    {
+      "id": "Gate Valve@630x382",
+      "label": "Gate Valve",
+      "position": {
+        "x": 630,
+        "y": 382.5,
+        "width": 36,
+        "height": 67
+      },
+      "type": "gate_valve",
+      "source": "model"
+    },
+    {
+      "id": "Gate Valve@401x462",
+      "label": "Gate Valve",
+      "position": {
+        "x": 401.5,
+        "y": 462.5,
+        "width": 47,
+        "height": 63
+      },
+      "type": "gate_valve",
+      "source": "model"
+    },
+    {
+      "id": "Gate Valve@722x239",
+      "label": "Gate Valve",
+      "position": {
+        "x": 722,
+        "y": 239,
+        "width": 46,
+        "height": 70
+      },
+      "type": "gate_valve",
+      "source": "model"
+    },
+    {
+      "id": "Hand Operated Gate Valve@837x132",
+      "label": "Hand Operated Gate Valve",
+      "position": {
+        "x": 837,
+        "y": 132.5,
+        "width": 68,
+        "height": 69
+      },
+      "type": "hand_operated_gate_valve",
+      "source": "model"
+    }
+  ]
+}
